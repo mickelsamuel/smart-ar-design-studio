@@ -1,17 +1,18 @@
 {
-  "name": "smart-ar-design-studio",
-  "private": true,
-  "scripts": {
-    "build": "turbo run build",
-    "test": "turbo run test",
-    "lint": "turbo run lint"
-  },
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.18.1",
-    "@typescript-eslint/parser": "^8.18.1",
-    "eslint": "^9.17.0",
-    "prettier": "^3.4.2",
-    "turbo": "^2.3.3",
-    "typescript": "^5.7.2"
-  }
-}
+    "name": "smart-ar-design-studio",
+    "private": true,
+    "packageManager": "pnpm@8.0.0",
+    "scripts": {
+      "build": "turbo run build",
+      "test": "turbo run test",
+      "lint": "turbo run lint"
+    },
+    "devDependencies": {
+      "@typescript-eslint/eslint-plugin": "^8.18.1",
+      "@typescript-eslint/parser": "^8.18.1",
+      "eslint": "^9.17.0",
+      "prettier": "^3.4.2",
+      "turbo": "^2.3.3",
+      "typescript": "^5.7.2"
+    }
+  }  
